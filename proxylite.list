@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,clashverge.dev
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,annas-archive
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
