@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,asmr-300.com
 DOMAIN-SUFFIX,boomio-cdn.com
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,clashverge.dev
+DOMAIN,gsa.apple.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
