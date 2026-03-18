@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,boomio-cdn.com
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,clashverge.dev
 DOMAIN,gsa.apple.com
+DOMAIN-SUFFIX,go2788.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
