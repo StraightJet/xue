@@ -7,3 +7,15 @@ DOMAIN-SUFFIX,eqqmy.com
 IP-CIDR,11.254.254.2/32,no-resolve
 
 # 域名关键字匹配 DOMAIN-KEYWORD,1e100
+
+
+# Tailscale 官方服务及中继
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+
+
+AND,((NETWORK,UDP),(DST-PORT,3478))
+
+  # Tailscale 直连通信
+AND,((NETWORK,UDP),(SRC-PORT,41641))
+AND,((NETWORK,UDP),(DST-PORT,41641))
